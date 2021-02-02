@@ -1,0 +1,1120 @@
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 7 9
+2 4 10
+2 5 11
+3 4 12
+3 5 13
+6 13 14
+7 12 15
+8 11 16
+9 10 17
+10 18 19
+11 18 20
+12 19 21
+13 20 21
+14 15 21
+14 16 20
+15 17 19
+16 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 24
+potlacena hrana: ( 0, 2 )    hodnota psi: 24
+potlacena hrana: ( 0, 3 )    hodnota psi: 24
+potlacena hrana: ( 1, 4 )    hodnota psi: 24
+potlacena hrana: ( 1, 5 )    hodnota psi: 24
+potlacena hrana: ( 2, 6 )    hodnota psi: 24
+potlacena hrana: ( 2, 7 )    hodnota psi: 24
+potlacena hrana: ( 3, 8 )    hodnota psi: 24
+potlacena hrana: ( 3, 9 )    hodnota psi: 24
+potlacena hrana: ( 4, 6 )    hodnota psi: 24
+potlacena hrana: ( 4, 8 )    hodnota psi: 24
+potlacena hrana: ( 5, 7 )    hodnota psi: 24
+potlacena hrana: ( 5, 9 )    hodnota psi: 24
+potlacena hrana: ( 6, 10 )    hodnota psi: 0
+potlacena hrana: ( 7, 11 )    hodnota psi: 0
+potlacena hrana: ( 8, 12 )    hodnota psi: 0
+potlacena hrana: ( 9, 13 )    hodnota psi: 0
+potlacena hrana: ( 10, 13 )    hodnota psi: 0
+potlacena hrana: ( 10, 14 )    hodnota psi: 12
+potlacena hrana: ( 11, 12 )    hodnota psi: 0
+potlacena hrana: ( 11, 15 )    hodnota psi: 12
+potlacena hrana: ( 12, 16 )    hodnota psi: 12
+potlacena hrana: ( 13, 17 )    hodnota psi: 12
+potlacena hrana: ( 14, 18 )    hodnota psi: 6
+potlacena hrana: ( 14, 19 )    hodnota psi: 6
+potlacena hrana: ( 15, 18 )    hodnota psi: 6
+potlacena hrana: ( 15, 20 )    hodnota psi: 6
+potlacena hrana: ( 16, 19 )    hodnota psi: 6
+potlacena hrana: ( 16, 21 )    hodnota psi: 6
+potlacena hrana: ( 17, 20 )    hodnota psi: 6
+potlacena hrana: ( 17, 21 )    hodnota psi: 6
+potlacena hrana: ( 18, 21 )    hodnota psi: 6
+potlacena hrana: ( 19, 20 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 7 10
+2 4 9
+2 5 11
+3 4 12
+3 6 13
+5 13 14
+7 12 15
+8 11 16
+9 10 17
+10 18 19
+11 18 20
+12 19 21
+13 20 21
+14 15 21
+14 16 20
+15 17 19
+16 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 24
+potlacena hrana: ( 0, 2 )    hodnota psi: 24
+potlacena hrana: ( 0, 3 )    hodnota psi: 24
+potlacena hrana: ( 1, 4 )    hodnota psi: 24
+potlacena hrana: ( 1, 5 )    hodnota psi: 24
+potlacena hrana: ( 2, 6 )    hodnota psi: 24
+potlacena hrana: ( 2, 7 )    hodnota psi: 24
+potlacena hrana: ( 3, 8 )    hodnota psi: 24
+potlacena hrana: ( 3, 9 )    hodnota psi: 24
+potlacena hrana: ( 4, 6 )    hodnota psi: 24
+potlacena hrana: ( 4, 8 )    hodnota psi: 24
+potlacena hrana: ( 5, 7 )    hodnota psi: 24
+potlacena hrana: ( 5, 10 )    hodnota psi: 0
+potlacena hrana: ( 6, 9 )    hodnota psi: 24
+potlacena hrana: ( 7, 11 )    hodnota psi: 0
+potlacena hrana: ( 8, 12 )    hodnota psi: 0
+potlacena hrana: ( 9, 13 )    hodnota psi: 0
+potlacena hrana: ( 10, 13 )    hodnota psi: 0
+potlacena hrana: ( 10, 14 )    hodnota psi: 12
+potlacena hrana: ( 11, 12 )    hodnota psi: 0
+potlacena hrana: ( 11, 15 )    hodnota psi: 12
+potlacena hrana: ( 12, 16 )    hodnota psi: 12
+potlacena hrana: ( 13, 17 )    hodnota psi: 12
+potlacena hrana: ( 14, 18 )    hodnota psi: 6
+potlacena hrana: ( 14, 19 )    hodnota psi: 6
+potlacena hrana: ( 15, 18 )    hodnota psi: 6
+potlacena hrana: ( 15, 20 )    hodnota psi: 6
+potlacena hrana: ( 16, 19 )    hodnota psi: 6
+potlacena hrana: ( 16, 21 )    hodnota psi: 6
+potlacena hrana: ( 17, 20 )    hodnota psi: 6
+potlacena hrana: ( 17, 21 )    hodnota psi: 6
+potlacena hrana: ( 18, 21 )    hodnota psi: 6
+potlacena hrana: ( 19, 20 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 7 10
+2 4 11
+2 5 12
+3 4 13
+3 10 11
+5 9 14
+6 9 15
+7 13 16
+8 12 17
+10 18 19
+11 20 21
+12 18 20
+13 19 21
+14 16 21
+14 17 20
+15 16 19
+15 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 12
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 24
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 7 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 24
+potlacena hrana: ( 6, 11 )    hodnota psi: 24
+potlacena hrana: ( 7, 12 )    hodnota psi: 0
+potlacena hrana: ( 8, 13 )    hodnota psi: 0
+potlacena hrana: ( 9, 10 )    hodnota psi: 0
+potlacena hrana: ( 9, 11 )    hodnota psi: 0
+potlacena hrana: ( 10, 14 )    hodnota psi: 12
+potlacena hrana: ( 11, 15 )    hodnota psi: 12
+potlacena hrana: ( 12, 13 )    hodnota psi: 0
+potlacena hrana: ( 12, 16 )    hodnota psi: 18
+potlacena hrana: ( 13, 17 )    hodnota psi: 18
+potlacena hrana: ( 14, 18 )    hodnota psi: 9
+potlacena hrana: ( 14, 19 )    hodnota psi: 9
+potlacena hrana: ( 15, 20 )    hodnota psi: 9
+potlacena hrana: ( 15, 21 )    hodnota psi: 9
+potlacena hrana: ( 16, 18 )    hodnota psi: 9
+potlacena hrana: ( 16, 20 )    hodnota psi: 9
+potlacena hrana: ( 17, 19 )    hodnota psi: 9
+potlacena hrana: ( 17, 21 )    hodnota psi: 9
+potlacena hrana: ( 18, 21 )    hodnota psi: 9
+potlacena hrana: ( 19, 20 )    hodnota psi: 9
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 7 10
+2 4 11
+2 5 12
+3 4 13
+3 10 11
+5 9 14
+6 9 15
+7 16 17
+8 18 19
+10 15 20
+11 14 21
+12 18 20
+12 19 21
+13 16 21
+13 17 20
+14 16 19
+15 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 12
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 24
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 7 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 24
+potlacena hrana: ( 6, 11 )    hodnota psi: 24
+potlacena hrana: ( 7, 12 )    hodnota psi: 15
+potlacena hrana: ( 8, 13 )    hodnota psi: 12
+potlacena hrana: ( 9, 10 )    hodnota psi: 0
+potlacena hrana: ( 9, 11 )    hodnota psi: 0
+potlacena hrana: ( 10, 14 )    hodnota psi: 0
+potlacena hrana: ( 11, 15 )    hodnota psi: 0
+potlacena hrana: ( 12, 16 )    hodnota psi: 9
+potlacena hrana: ( 12, 17 )    hodnota psi: 9
+potlacena hrana: ( 13, 18 )    hodnota psi: 9
+potlacena hrana: ( 13, 19 )    hodnota psi: 9
+potlacena hrana: ( 14, 15 )    hodnota psi: 0
+potlacena hrana: ( 14, 20 )    hodnota psi: 18
+potlacena hrana: ( 15, 21 )    hodnota psi: 18
+potlacena hrana: ( 16, 18 )    hodnota psi: 9
+potlacena hrana: ( 16, 20 )    hodnota psi: 9
+potlacena hrana: ( 17, 19 )    hodnota psi: 9
+potlacena hrana: ( 17, 21 )    hodnota psi: 9
+potlacena hrana: ( 18, 21 )    hodnota psi: 9
+potlacena hrana: ( 19, 20 )    hodnota psi: 9
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 7 10
+2 4 11
+2 5 12
+3 4 13
+3 10 14
+5 9 15
+6 14 15
+7 16 17
+8 18 19
+9 11 20
+10 11 21
+12 18 20
+12 19 21
+13 16 21
+13 17 20
+14 16 19
+15 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 6
+potlacena hrana: ( 0, 2 )    hodnota psi: 6
+potlacena hrana: ( 0, 3 )    hodnota psi: 6
+potlacena hrana: ( 1, 4 )    hodnota psi: 6
+potlacena hrana: ( 1, 5 )    hodnota psi: 6
+potlacena hrana: ( 2, 6 )    hodnota psi: 6
+potlacena hrana: ( 2, 7 )    hodnota psi: 6
+potlacena hrana: ( 3, 8 )    hodnota psi: 6
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 6
+potlacena hrana: ( 4, 8 )    hodnota psi: 6
+potlacena hrana: ( 5, 7 )    hodnota psi: 6
+potlacena hrana: ( 5, 10 )    hodnota psi: 12
+potlacena hrana: ( 6, 11 )    hodnota psi: 24
+potlacena hrana: ( 7, 12 )    hodnota psi: 15
+potlacena hrana: ( 8, 13 )    hodnota psi: 15
+potlacena hrana: ( 9, 10 )    hodnota psi: 0
+potlacena hrana: ( 9, 14 )    hodnota psi: 0
+potlacena hrana: ( 10, 15 )    hodnota psi: 0
+potlacena hrana: ( 11, 14 )    hodnota psi: 0
+potlacena hrana: ( 11, 15 )    hodnota psi: 0
+potlacena hrana: ( 12, 16 )    hodnota psi: 12
+potlacena hrana: ( 12, 17 )    hodnota psi: 12
+potlacena hrana: ( 13, 18 )    hodnota psi: 12
+potlacena hrana: ( 13, 19 )    hodnota psi: 12
+potlacena hrana: ( 14, 20 )    hodnota psi: 18
+potlacena hrana: ( 15, 21 )    hodnota psi: 18
+potlacena hrana: ( 16, 18 )    hodnota psi: 12
+potlacena hrana: ( 16, 20 )    hodnota psi: 12
+potlacena hrana: ( 17, 19 )    hodnota psi: 12
+potlacena hrana: ( 17, 21 )    hodnota psi: 12
+potlacena hrana: ( 18, 21 )    hodnota psi: 12
+potlacena hrana: ( 19, 20 )    hodnota psi: 12
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 7 10
+2 4 11
+2 5 12
+3 4 13
+3 11 14
+5 11 15
+6 9 10
+7 13 16
+8 12 17
+9 18 19
+10 20 21
+12 18 20
+13 19 21
+14 16 21
+14 17 20
+15 16 19
+15 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 12
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 24
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 7 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 24
+potlacena hrana: ( 6, 11 )    hodnota psi: 24
+potlacena hrana: ( 7, 12 )    hodnota psi: 0
+potlacena hrana: ( 8, 13 )    hodnota psi: 0
+potlacena hrana: ( 9, 11 )    hodnota psi: 0
+potlacena hrana: ( 9, 14 )    hodnota psi: 12
+potlacena hrana: ( 10, 11 )    hodnota psi: 0
+potlacena hrana: ( 10, 15 )    hodnota psi: 12
+potlacena hrana: ( 12, 13 )    hodnota psi: 0
+potlacena hrana: ( 12, 16 )    hodnota psi: 18
+potlacena hrana: ( 13, 17 )    hodnota psi: 18
+potlacena hrana: ( 14, 18 )    hodnota psi: 9
+potlacena hrana: ( 14, 19 )    hodnota psi: 9
+potlacena hrana: ( 15, 20 )    hodnota psi: 9
+potlacena hrana: ( 15, 21 )    hodnota psi: 9
+potlacena hrana: ( 16, 18 )    hodnota psi: 9
+potlacena hrana: ( 16, 20 )    hodnota psi: 9
+potlacena hrana: ( 17, 19 )    hodnota psi: 9
+potlacena hrana: ( 17, 21 )    hodnota psi: 9
+potlacena hrana: ( 18, 21 )    hodnota psi: 9
+potlacena hrana: ( 19, 20 )    hodnota psi: 9
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 7 10
+2 4 11
+2 5 12
+3 4 13
+3 11 14
+5 11 15
+6 9 10
+7 16 17
+8 18 19
+9 15 20
+10 14 21
+12 18 20
+12 19 21
+13 16 21
+13 17 20
+14 16 19
+15 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 12
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 24
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 7 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 24
+potlacena hrana: ( 6, 11 )    hodnota psi: 24
+potlacena hrana: ( 7, 12 )    hodnota psi: 15
+potlacena hrana: ( 8, 13 )    hodnota psi: 15
+potlacena hrana: ( 9, 11 )    hodnota psi: 0
+potlacena hrana: ( 9, 14 )    hodnota psi: 0
+potlacena hrana: ( 10, 11 )    hodnota psi: 0
+potlacena hrana: ( 10, 15 )    hodnota psi: 0
+potlacena hrana: ( 12, 16 )    hodnota psi: 9
+potlacena hrana: ( 12, 17 )    hodnota psi: 9
+potlacena hrana: ( 13, 18 )    hodnota psi: 9
+potlacena hrana: ( 13, 19 )    hodnota psi: 9
+potlacena hrana: ( 14, 15 )    hodnota psi: 0
+potlacena hrana: ( 14, 20 )    hodnota psi: 18
+potlacena hrana: ( 15, 21 )    hodnota psi: 18
+potlacena hrana: ( 16, 18 )    hodnota psi: 9
+potlacena hrana: ( 16, 20 )    hodnota psi: 9
+potlacena hrana: ( 17, 19 )    hodnota psi: 9
+potlacena hrana: ( 17, 21 )    hodnota psi: 9
+potlacena hrana: ( 18, 21 )    hodnota psi: 9
+potlacena hrana: ( 19, 20 )    hodnota psi: 9
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 7 10
+2 4 11
+2 5 12
+3 4 13
+3 11 14
+5 14 15
+6 9 15
+7 16 17
+8 18 19
+9 10 20
+10 11 21
+12 18 20
+12 19 21
+13 16 21
+13 17 20
+14 16 19
+15 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 6
+potlacena hrana: ( 0, 2 )    hodnota psi: 6
+potlacena hrana: ( 0, 3 )    hodnota psi: 6
+potlacena hrana: ( 1, 4 )    hodnota psi: 6
+potlacena hrana: ( 1, 5 )    hodnota psi: 6
+potlacena hrana: ( 2, 6 )    hodnota psi: 6
+potlacena hrana: ( 2, 7 )    hodnota psi: 6
+potlacena hrana: ( 3, 8 )    hodnota psi: 6
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 6
+potlacena hrana: ( 4, 8 )    hodnota psi: 6
+potlacena hrana: ( 5, 7 )    hodnota psi: 6
+potlacena hrana: ( 5, 10 )    hodnota psi: 24
+potlacena hrana: ( 6, 11 )    hodnota psi: 12
+potlacena hrana: ( 7, 12 )    hodnota psi: 18
+potlacena hrana: ( 8, 13 )    hodnota psi: 15
+potlacena hrana: ( 9, 11 )    hodnota psi: 0
+potlacena hrana: ( 9, 14 )    hodnota psi: 0
+potlacena hrana: ( 10, 14 )    hodnota psi: 0
+potlacena hrana: ( 10, 15 )    hodnota psi: 0
+potlacena hrana: ( 11, 15 )    hodnota psi: 0
+potlacena hrana: ( 12, 16 )    hodnota psi: 12
+potlacena hrana: ( 12, 17 )    hodnota psi: 12
+potlacena hrana: ( 13, 18 )    hodnota psi: 12
+potlacena hrana: ( 13, 19 )    hodnota psi: 12
+potlacena hrana: ( 14, 20 )    hodnota psi: 18
+potlacena hrana: ( 15, 21 )    hodnota psi: 18
+potlacena hrana: ( 16, 18 )    hodnota psi: 12
+potlacena hrana: ( 16, 20 )    hodnota psi: 12
+potlacena hrana: ( 17, 19 )    hodnota psi: 12
+potlacena hrana: ( 17, 21 )    hodnota psi: 12
+potlacena hrana: ( 18, 21 )    hodnota psi: 12
+potlacena hrana: ( 19, 20 )    hodnota psi: 12
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 10 12
+3 4 12
+3 6 13
+5 7 14
+5 13 15
+7 8 16
+9 11 17
+10 18 19
+11 18 20
+12 20 21
+13 19 21
+14 15 21
+14 17 20
+15 16 19
+16 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 24
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 24
+potlacena hrana: ( 5, 11 )    hodnota psi: 0
+potlacena hrana: ( 6, 9 )    hodnota psi: 12
+potlacena hrana: ( 7, 10 )    hodnota psi: 0
+potlacena hrana: ( 7, 12 )    hodnota psi: 0
+potlacena hrana: ( 8, 12 )    hodnota psi: 24
+potlacena hrana: ( 9, 13 )    hodnota psi: 0
+potlacena hrana: ( 10, 14 )    hodnota psi: 12
+potlacena hrana: ( 11, 13 )    hodnota psi: 0
+potlacena hrana: ( 11, 15 )    hodnota psi: 24
+potlacena hrana: ( 12, 16 )    hodnota psi: 0
+potlacena hrana: ( 13, 17 )    hodnota psi: 24
+potlacena hrana: ( 14, 18 )    hodnota psi: 12
+potlacena hrana: ( 14, 19 )    hodnota psi: 12
+potlacena hrana: ( 15, 18 )    hodnota psi: 12
+potlacena hrana: ( 15, 20 )    hodnota psi: 12
+potlacena hrana: ( 16, 20 )    hodnota psi: 12
+potlacena hrana: ( 16, 21 )    hodnota psi: 12
+potlacena hrana: ( 17, 19 )    hodnota psi: 12
+potlacena hrana: ( 17, 21 )    hodnota psi: 12
+potlacena hrana: ( 18, 21 )    hodnota psi: 12
+potlacena hrana: ( 19, 20 )    hodnota psi: 12
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 10 12
+3 4 12
+3 6 13
+5 7 14
+5 15 16
+7 8 17
+9 18 19
+10 17 20
+11 18 20
+11 19 21
+12 14 21
+13 15 21
+13 16 20
+14 15 19
+16 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 24
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 24
+potlacena hrana: ( 5, 11 )    hodnota psi: 12
+potlacena hrana: ( 6, 9 )    hodnota psi: 12
+potlacena hrana: ( 7, 10 )    hodnota psi: 0
+potlacena hrana: ( 7, 12 )    hodnota psi: 0
+potlacena hrana: ( 8, 12 )    hodnota psi: 24
+potlacena hrana: ( 9, 13 )    hodnota psi: 9
+potlacena hrana: ( 10, 14 )    hodnota psi: 0
+potlacena hrana: ( 11, 15 )    hodnota psi: 12
+potlacena hrana: ( 11, 16 )    hodnota psi: 12
+potlacena hrana: ( 12, 17 )    hodnota psi: 0
+potlacena hrana: ( 13, 18 )    hodnota psi: 12
+potlacena hrana: ( 13, 19 )    hodnota psi: 12
+potlacena hrana: ( 14, 17 )    hodnota psi: 0
+potlacena hrana: ( 14, 20 )    hodnota psi: 24
+potlacena hrana: ( 15, 18 )    hodnota psi: 12
+potlacena hrana: ( 15, 20 )    hodnota psi: 12
+potlacena hrana: ( 16, 19 )    hodnota psi: 12
+potlacena hrana: ( 16, 21 )    hodnota psi: 12
+potlacena hrana: ( 17, 21 )    hodnota psi: 24
+potlacena hrana: ( 18, 21 )    hodnota psi: 12
+potlacena hrana: ( 19, 20 )    hodnota psi: 12
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 10 12
+3 4 13
+3 6 14
+5 7 13
+5 14 15
+7 16 17
+8 10 18
+9 11 19
+11 16 20
+12 15 21
+12 19 20
+13 20 21
+14 17 21
+15 17 18
+16 18 19
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 24
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 24
+potlacena hrana: ( 5, 11 )    hodnota psi: 0
+potlacena hrana: ( 6, 9 )    hodnota psi: 12
+potlacena hrana: ( 7, 10 )    hodnota psi: 0
+potlacena hrana: ( 7, 12 )    hodnota psi: 12
+potlacena hrana: ( 8, 13 )    hodnota psi: 24
+potlacena hrana: ( 9, 14 )    hodnota psi: 0
+potlacena hrana: ( 10, 13 )    hodnota psi: 0
+potlacena hrana: ( 11, 14 )    hodnota psi: 0
+potlacena hrana: ( 11, 15 )    hodnota psi: 12
+potlacena hrana: ( 12, 16 )    hodnota psi: 6
+potlacena hrana: ( 12, 17 )    hodnota psi: 6
+potlacena hrana: ( 13, 18 )    hodnota psi: 12
+potlacena hrana: ( 14, 19 )    hodnota psi: 12
+potlacena hrana: ( 15, 16 )    hodnota psi: 6
+potlacena hrana: ( 15, 20 )    hodnota psi: 6
+potlacena hrana: ( 16, 21 )    hodnota psi: 6
+potlacena hrana: ( 17, 19 )    hodnota psi: 6
+potlacena hrana: ( 17, 20 )    hodnota psi: 6
+potlacena hrana: ( 18, 20 )    hodnota psi: 6
+potlacena hrana: ( 18, 21 )    hodnota psi: 6
+potlacena hrana: ( 19, 21 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 10 12
+3 4 13
+3 6 14
+5 7 13
+5 15 16
+7 17 18
+8 10 17
+9 19 20
+11 18 19
+11 20 21
+12 13 21
+12 15 20
+14 15 21
+14 16 18
+16 17 19
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 24
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 24
+potlacena hrana: ( 5, 11 )    hodnota psi: 6
+potlacena hrana: ( 6, 9 )    hodnota psi: 12
+potlacena hrana: ( 7, 10 )    hodnota psi: 0
+potlacena hrana: ( 7, 12 )    hodnota psi: 0
+potlacena hrana: ( 8, 13 )    hodnota psi: 24
+potlacena hrana: ( 9, 14 )    hodnota psi: 18
+potlacena hrana: ( 10, 13 )    hodnota psi: 0
+potlacena hrana: ( 11, 15 )    hodnota psi: 6
+potlacena hrana: ( 11, 16 )    hodnota psi: 6
+potlacena hrana: ( 12, 17 )    hodnota psi: 0
+potlacena hrana: ( 12, 18 )    hodnota psi: 12
+potlacena hrana: ( 13, 17 )    hodnota psi: 0
+potlacena hrana: ( 14, 19 )    hodnota psi: 6
+potlacena hrana: ( 14, 20 )    hodnota psi: 6
+potlacena hrana: ( 15, 18 )    hodnota psi: 6
+potlacena hrana: ( 15, 19 )    hodnota psi: 6
+potlacena hrana: ( 16, 20 )    hodnota psi: 6
+potlacena hrana: ( 16, 21 )    hodnota psi: 6
+potlacena hrana: ( 17, 21 )    hodnota psi: 12
+potlacena hrana: ( 18, 20 )    hodnota psi: 6
+potlacena hrana: ( 19, 21 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 10 12
+3 4 13
+3 6 14
+5 7 15
+5 14 16
+7 13 17
+8 12 18
+9 11 19
+10 20 21
+11 17 20
+12 16 21
+13 19 20
+14 18 21
+15 16 18
+15 17 19
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 18
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 18
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 12
+potlacena hrana: ( 5, 11 )    hodnota psi: 0
+potlacena hrana: ( 6, 9 )    hodnota psi: 12
+potlacena hrana: ( 7, 10 )    hodnota psi: 12
+potlacena hrana: ( 7, 12 )    hodnota psi: 0
+potlacena hrana: ( 8, 13 )    hodnota psi: 24
+potlacena hrana: ( 9, 14 )    hodnota psi: 24
+potlacena hrana: ( 10, 15 )    hodnota psi: 6
+potlacena hrana: ( 11, 14 )    hodnota psi: 0
+potlacena hrana: ( 11, 16 )    hodnota psi: 12
+potlacena hrana: ( 12, 13 )    hodnota psi: 0
+potlacena hrana: ( 12, 17 )    hodnota psi: 12
+potlacena hrana: ( 13, 18 )    hodnota psi: 12
+potlacena hrana: ( 14, 19 )    hodnota psi: 12
+potlacena hrana: ( 15, 20 )    hodnota psi: 6
+potlacena hrana: ( 15, 21 )    hodnota psi: 6
+potlacena hrana: ( 16, 17 )    hodnota psi: 6
+potlacena hrana: ( 16, 20 )    hodnota psi: 6
+potlacena hrana: ( 17, 21 )    hodnota psi: 6
+potlacena hrana: ( 18, 19 )    hodnota psi: 6
+potlacena hrana: ( 18, 20 )    hodnota psi: 6
+potlacena hrana: ( 19, 21 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 10 12
+3 4 13
+3 6 14
+5 7 15
+5 14 16
+7 13 17
+8 12 18
+9 11 19
+10 20 21
+11 18 20
+12 19 20
+13 16 21
+14 17 21
+15 16 17
+15 18 19
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 18
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 18
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 12
+potlacena hrana: ( 5, 11 )    hodnota psi: 0
+potlacena hrana: ( 6, 9 )    hodnota psi: 12
+potlacena hrana: ( 7, 10 )    hodnota psi: 12
+potlacena hrana: ( 7, 12 )    hodnota psi: 0
+potlacena hrana: ( 8, 13 )    hodnota psi: 24
+potlacena hrana: ( 9, 14 )    hodnota psi: 24
+potlacena hrana: ( 10, 15 )    hodnota psi: 6
+potlacena hrana: ( 11, 14 )    hodnota psi: 0
+potlacena hrana: ( 11, 16 )    hodnota psi: 12
+potlacena hrana: ( 12, 13 )    hodnota psi: 0
+potlacena hrana: ( 12, 17 )    hodnota psi: 12
+potlacena hrana: ( 13, 18 )    hodnota psi: 12
+potlacena hrana: ( 14, 19 )    hodnota psi: 12
+potlacena hrana: ( 15, 20 )    hodnota psi: 6
+potlacena hrana: ( 15, 21 )    hodnota psi: 6
+potlacena hrana: ( 16, 18 )    hodnota psi: 6
+potlacena hrana: ( 16, 20 )    hodnota psi: 6
+potlacena hrana: ( 17, 19 )    hodnota psi: 6
+potlacena hrana: ( 17, 20 )    hodnota psi: 6
+potlacena hrana: ( 18, 21 )    hodnota psi: 6
+potlacena hrana: ( 19, 21 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 10 12
+3 4 13
+3 6 14
+5 7 15
+5 14 16
+7 17 18
+8 19 20
+9 11 15
+10 14 21
+11 17 19
+12 16 20
+12 19 21
+13 16 18
+13 17 21
+15 18 20
+potlacena hrana: ( 0, 1 )    hodnota psi: 6
+potlacena hrana: ( 0, 2 )    hodnota psi: 6
+potlacena hrana: ( 0, 3 )    hodnota psi: 6
+potlacena hrana: ( 1, 4 )    hodnota psi: 6
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 6
+potlacena hrana: ( 2, 7 )    hodnota psi: 6
+potlacena hrana: ( 3, 8 )    hodnota psi: 6
+potlacena hrana: ( 3, 9 )    hodnota psi: 6
+potlacena hrana: ( 4, 6 )    hodnota psi: 6
+potlacena hrana: ( 4, 8 )    hodnota psi: 6
+potlacena hrana: ( 5, 10 )    hodnota psi: 0
+potlacena hrana: ( 5, 11 )    hodnota psi: 0
+potlacena hrana: ( 6, 9 )    hodnota psi: 6
+potlacena hrana: ( 7, 10 )    hodnota psi: 12
+potlacena hrana: ( 7, 12 )    hodnota psi: 6
+potlacena hrana: ( 8, 13 )    hodnota psi: 27
+potlacena hrana: ( 9, 14 )    hodnota psi: 24
+potlacena hrana: ( 10, 15 )    hodnota psi: 0
+potlacena hrana: ( 11, 14 )    hodnota psi: 0
+potlacena hrana: ( 11, 16 )    hodnota psi: 24
+potlacena hrana: ( 12, 17 )    hodnota psi: 6
+potlacena hrana: ( 12, 18 )    hodnota psi: 6
+potlacena hrana: ( 13, 19 )    hodnota psi: 6
+potlacena hrana: ( 13, 20 )    hodnota psi: 6
+potlacena hrana: ( 14, 15 )    hodnota psi: 0
+potlacena hrana: ( 15, 21 )    hodnota psi: 12
+potlacena hrana: ( 16, 17 )    hodnota psi: 6
+potlacena hrana: ( 16, 19 )    hodnota psi: 6
+potlacena hrana: ( 17, 20 )    hodnota psi: 6
+potlacena hrana: ( 18, 19 )    hodnota psi: 6
+potlacena hrana: ( 18, 21 )    hodnota psi: 6
+potlacena hrana: ( 20, 21 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 12 13
+3 4 14
+3 6 15
+5 12 15
+5 16 17
+7 10 14
+7 16 18
+8 12 19
+9 10 20
+11 13 21
+11 18 19
+13 17 20
+14 17 21
+15 18 21
+16 19 20
+potlacena hrana: ( 0, 1 )    hodnota psi: 6
+potlacena hrana: ( 0, 2 )    hodnota psi: 6
+potlacena hrana: ( 0, 3 )    hodnota psi: 6
+potlacena hrana: ( 1, 4 )    hodnota psi: 6
+potlacena hrana: ( 1, 5 )    hodnota psi: 12
+potlacena hrana: ( 2, 6 )    hodnota psi: 6
+potlacena hrana: ( 2, 7 )    hodnota psi: 12
+potlacena hrana: ( 3, 8 )    hodnota psi: 6
+potlacena hrana: ( 3, 9 )    hodnota psi: 6
+potlacena hrana: ( 4, 6 )    hodnota psi: 6
+potlacena hrana: ( 4, 8 )    hodnota psi: 6
+potlacena hrana: ( 5, 10 )    hodnota psi: 0
+potlacena hrana: ( 5, 11 )    hodnota psi: 12
+potlacena hrana: ( 6, 9 )    hodnota psi: 6
+potlacena hrana: ( 7, 12 )    hodnota psi: 0
+potlacena hrana: ( 7, 13 )    hodnota psi: 12
+potlacena hrana: ( 8, 14 )    hodnota psi: 12
+potlacena hrana: ( 9, 15 )    hodnota psi: 12
+potlacena hrana: ( 10, 12 )    hodnota psi: 24
+potlacena hrana: ( 10, 15 )    hodnota psi: 0
+potlacena hrana: ( 11, 16 )    hodnota psi: 6
+potlacena hrana: ( 11, 17 )    hodnota psi: 6
+potlacena hrana: ( 12, 14 )    hodnota psi: 0
+potlacena hrana: ( 13, 16 )    hodnota psi: 6
+potlacena hrana: ( 13, 18 )    hodnota psi: 6
+potlacena hrana: ( 14, 19 )    hodnota psi: 12
+potlacena hrana: ( 15, 20 )    hodnota psi: 12
+potlacena hrana: ( 16, 21 )    hodnota psi: 6
+potlacena hrana: ( 17, 18 )    hodnota psi: 6
+potlacena hrana: ( 17, 19 )    hodnota psi: 6
+potlacena hrana: ( 18, 20 )    hodnota psi: 6
+potlacena hrana: ( 19, 21 )    hodnota psi: 6
+potlacena hrana: ( 20, 21 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 12 13
+3 4 14
+3 6 15
+5 12 15
+5 16 17
+7 10 18
+7 14 16
+8 13 19
+9 10 20
+11 13 21
+11 18 19
+12 17 21
+14 17 20
+15 19 21
+16 18 20
+potlacena hrana: ( 0, 1 )    hodnota psi: 15
+potlacena hrana: ( 0, 2 )    hodnota psi: 15
+potlacena hrana: ( 0, 3 )    hodnota psi: 15
+potlacena hrana: ( 1, 4 )    hodnota psi: 15
+potlacena hrana: ( 1, 5 )    hodnota psi: 18
+potlacena hrana: ( 2, 6 )    hodnota psi: 15
+potlacena hrana: ( 2, 7 )    hodnota psi: 18
+potlacena hrana: ( 3, 8 )    hodnota psi: 15
+potlacena hrana: ( 3, 9 )    hodnota psi: 15
+potlacena hrana: ( 4, 6 )    hodnota psi: 15
+potlacena hrana: ( 4, 8 )    hodnota psi: 15
+potlacena hrana: ( 5, 10 )    hodnota psi: 0
+potlacena hrana: ( 5, 11 )    hodnota psi: 12
+potlacena hrana: ( 6, 9 )    hodnota psi: 15
+potlacena hrana: ( 7, 12 )    hodnota psi: 12
+potlacena hrana: ( 7, 13 )    hodnota psi: 0
+potlacena hrana: ( 8, 14 )    hodnota psi: 12
+potlacena hrana: ( 9, 15 )    hodnota psi: 18
+potlacena hrana: ( 10, 12 )    hodnota psi: 12
+potlacena hrana: ( 10, 15 )    hodnota psi: 0
+potlacena hrana: ( 11, 16 )    hodnota psi: 6
+potlacena hrana: ( 11, 17 )    hodnota psi: 6
+potlacena hrana: ( 12, 18 )    hodnota psi: 6
+potlacena hrana: ( 13, 14 )    hodnota psi: 0
+potlacena hrana: ( 13, 16 )    hodnota psi: 12
+potlacena hrana: ( 14, 19 )    hodnota psi: 12
+potlacena hrana: ( 15, 20 )    hodnota psi: 12
+potlacena hrana: ( 16, 21 )    hodnota psi: 6
+potlacena hrana: ( 17, 18 )    hodnota psi: 6
+potlacena hrana: ( 17, 19 )    hodnota psi: 6
+potlacena hrana: ( 18, 21 )    hodnota psi: 6
+potlacena hrana: ( 19, 20 )    hodnota psi: 6
+potlacena hrana: ( 20, 21 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 9
+2 12 13
+3 4 14
+3 6 15
+5 12 16
+5 15 17
+7 10 18
+7 14 17
+8 13 19
+9 11 20
+10 19 21
+11 13 21
+12 20 21
+14 16 20
+15 18 19
+16 17 18
+potlacena hrana: ( 0, 1 )    hodnota psi: 12
+potlacena hrana: ( 0, 2 )    hodnota psi: 12
+potlacena hrana: ( 0, 3 )    hodnota psi: 12
+potlacena hrana: ( 1, 4 )    hodnota psi: 12
+potlacena hrana: ( 1, 5 )    hodnota psi: 18
+potlacena hrana: ( 2, 6 )    hodnota psi: 12
+potlacena hrana: ( 2, 7 )    hodnota psi: 18
+potlacena hrana: ( 3, 8 )    hodnota psi: 12
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 12
+potlacena hrana: ( 4, 8 )    hodnota psi: 12
+potlacena hrana: ( 5, 10 )    hodnota psi: 12
+potlacena hrana: ( 5, 11 )    hodnota psi: 0
+potlacena hrana: ( 6, 9 )    hodnota psi: 12
+potlacena hrana: ( 7, 12 )    hodnota psi: 12
+potlacena hrana: ( 7, 13 )    hodnota psi: 0
+potlacena hrana: ( 8, 14 )    hodnota psi: 18
+potlacena hrana: ( 9, 15 )    hodnota psi: 18
+potlacena hrana: ( 10, 12 )    hodnota psi: 6
+potlacena hrana: ( 10, 16 )    hodnota psi: 6
+potlacena hrana: ( 11, 15 )    hodnota psi: 0
+potlacena hrana: ( 11, 17 )    hodnota psi: 12
+potlacena hrana: ( 12, 18 )    hodnota psi: 6
+potlacena hrana: ( 13, 14 )    hodnota psi: 0
+potlacena hrana: ( 13, 17 )    hodnota psi: 12
+potlacena hrana: ( 14, 19 )    hodnota psi: 12
+potlacena hrana: ( 15, 20 )    hodnota psi: 12
+potlacena hrana: ( 16, 19 )    hodnota psi: 6
+potlacena hrana: ( 16, 21 )    hodnota psi: 6
+potlacena hrana: ( 17, 21 )    hodnota psi: 6
+potlacena hrana: ( 18, 20 )    hodnota psi: 6
+potlacena hrana: ( 18, 21 )    hodnota psi: 6
+potlacena hrana: ( 19, 20 )    hodnota psi: 6
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 12
+2 13 14
+3 4 15
+3 16 17
+5 13 18
+5 16 19
+6 19 20
+7 10 21
+7 17 18
+8 18 21
+9 11 20
+9 14 19
+10 14 15
+11 12 17
+12 16 21
+13 15 20
+potlacena hrana: ( 0, 1 )    hodnota psi: 9
+potlacena hrana: ( 0, 2 )    hodnota psi: 9
+potlacena hrana: ( 0, 3 )    hodnota psi: 9
+potlacena hrana: ( 1, 4 )    hodnota psi: 9
+potlacena hrana: ( 1, 5 )    hodnota psi: 21
+potlacena hrana: ( 2, 6 )    hodnota psi: 9
+potlacena hrana: ( 2, 7 )    hodnota psi: 12
+potlacena hrana: ( 3, 8 )    hodnota psi: 9
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 9
+potlacena hrana: ( 4, 8 )    hodnota psi: 9
+potlacena hrana: ( 5, 10 )    hodnota psi: 21
+potlacena hrana: ( 5, 11 )    hodnota psi: 21
+potlacena hrana: ( 6, 12 )    hodnota psi: 12
+potlacena hrana: ( 7, 13 )    hodnota psi: 9
+potlacena hrana: ( 7, 14 )    hodnota psi: 9
+potlacena hrana: ( 8, 15 )    hodnota psi: 12
+potlacena hrana: ( 9, 16 )    hodnota psi: 9
+potlacena hrana: ( 9, 17 )    hodnota psi: 9
+potlacena hrana: ( 10, 13 )    hodnota psi: 9
+potlacena hrana: ( 10, 18 )    hodnota psi: 9
+potlacena hrana: ( 11, 16 )    hodnota psi: 9
+potlacena hrana: ( 11, 19 )    hodnota psi: 9
+potlacena hrana: ( 12, 19 )    hodnota psi: 9
+potlacena hrana: ( 12, 20 )    hodnota psi: 9
+potlacena hrana: ( 13, 21 )    hodnota psi: 9
+potlacena hrana: ( 14, 17 )    hodnota psi: 12
+potlacena hrana: ( 14, 18 )    hodnota psi: 9
+potlacena hrana: ( 15, 18 )    hodnota psi: 9
+potlacena hrana: ( 15, 21 )    hodnota psi: 9
+potlacena hrana: ( 16, 20 )    hodnota psi: 9
+potlacena hrana: ( 17, 19 )    hodnota psi: 9
+potlacena hrana: ( 20, 21 )    hodnota psi: 12
+
+1 2 3
+0 4 5
+0 6 7
+0 8 9
+1 6 8
+1 10 11
+2 4 12
+2 13 14
+3 4 15
+3 16 17
+5 13 18
+5 16 19
+6 19 20
+7 10 21
+7 18 20
+8 18 21
+9 11 20
+9 19 21
+10 14 15
+11 12 17
+12 14 16
+13 15 17
+potlacena hrana: ( 0, 1 )    hodnota psi: 9
+potlacena hrana: ( 0, 2 )    hodnota psi: 9
+potlacena hrana: ( 0, 3 )    hodnota psi: 9
+potlacena hrana: ( 1, 4 )    hodnota psi: 9
+potlacena hrana: ( 1, 5 )    hodnota psi: 21
+potlacena hrana: ( 2, 6 )    hodnota psi: 9
+potlacena hrana: ( 2, 7 )    hodnota psi: 12
+potlacena hrana: ( 3, 8 )    hodnota psi: 9
+potlacena hrana: ( 3, 9 )    hodnota psi: 12
+potlacena hrana: ( 4, 6 )    hodnota psi: 9
+potlacena hrana: ( 4, 8 )    hodnota psi: 9
+potlacena hrana: ( 5, 10 )    hodnota psi: 21
+potlacena hrana: ( 5, 11 )    hodnota psi: 21
+potlacena hrana: ( 6, 12 )    hodnota psi: 12
+potlacena hrana: ( 7, 13 )    hodnota psi: 9
+potlacena hrana: ( 7, 14 )    hodnota psi: 9
+potlacena hrana: ( 8, 15 )    hodnota psi: 12
+potlacena hrana: ( 9, 16 )    hodnota psi: 9
+potlacena hrana: ( 9, 17 )    hodnota psi: 9
+potlacena hrana: ( 10, 13 )    hodnota psi: 9
+potlacena hrana: ( 10, 18 )    hodnota psi: 9
+potlacena hrana: ( 11, 16 )    hodnota psi: 9
+potlacena hrana: ( 11, 19 )    hodnota psi: 9
+potlacena hrana: ( 12, 19 )    hodnota psi: 9
+potlacena hrana: ( 12, 20 )    hodnota psi: 9
+potlacena hrana: ( 13, 21 )    hodnota psi: 9
+potlacena hrana: ( 14, 18 )    hodnota psi: 9
+potlacena hrana: ( 14, 20 )    hodnota psi: 12
+potlacena hrana: ( 15, 18 )    hodnota psi: 9
+potlacena hrana: ( 15, 21 )    hodnota psi: 9
+potlacena hrana: ( 16, 20 )    hodnota psi: 9
+potlacena hrana: ( 17, 19 )    hodnota psi: 9
+potlacena hrana: ( 17, 21 )    hodnota psi: 12
+

@@ -1,0 +1,32 @@
+3 4 5
+2 3 4
+1 3 5
+0 1 2
+0 1 5
+0 2 4
+potlacena hrana: ( 0, 3 )    hodnota psi: 2
+potlacena hrana: ( 0, 4 )    hodnota psi: 1
+potlacena hrana: ( 0, 5 )    hodnota psi: 1
+potlacena hrana: ( 1, 2 )    hodnota psi: 1
+potlacena hrana: ( 1, 3 )    hodnota psi: 1
+potlacena hrana: ( 1, 4 )    hodnota psi: 2
+potlacena hrana: ( 2, 3 )    hodnota psi: 1
+potlacena hrana: ( 2, 5 )    hodnota psi: 2
+potlacena hrana: ( 4, 5 )    hodnota psi: 1
+
+2 3 4
+2 3 4
+0 1 5
+0 1 5
+0 1 5
+2 3 4
+potlacena hrana: ( 0, 2 )    hodnota psi: 1
+potlacena hrana: ( 0, 3 )    hodnota psi: 1
+potlacena hrana: ( 0, 4 )    hodnota psi: 1
+potlacena hrana: ( 1, 2 )    hodnota psi: 1
+potlacena hrana: ( 1, 3 )    hodnota psi: 1
+potlacena hrana: ( 1, 4 )    hodnota psi: 1
+potlacena hrana: ( 2, 5 )    hodnota psi: 1
+potlacena hrana: ( 3, 5 )    hodnota psi: 1
+potlacena hrana: ( 4, 5 )    hodnota psi: 1
+

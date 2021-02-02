@@ -1,0 +1,15 @@
+potlacena hrana: ( 0, 1 )    hodnota psi: 3
+potlacena hrana: ( 0, 4 )    hodnota psi: 3
+potlacena hrana: ( 0, 5 )    hodnota psi: 3
+potlacena hrana: ( 1, 2 )    hodnota psi: 3
+potlacena hrana: ( 1, 6 )    hodnota psi: 3
+potlacena hrana: ( 2, 3 )    hodnota psi: 3
+potlacena hrana: ( 2, 7 )    hodnota psi: 3
+potlacena hrana: ( 3, 4 )    hodnota psi: 3
+potlacena hrana: ( 3, 8 )    hodnota psi: 3
+potlacena hrana: ( 4, 9 )    hodnota psi: 3
+potlacena hrana: ( 5, 7 )    hodnota psi: 3
+potlacena hrana: ( 5, 8 )    hodnota psi: 3
+potlacena hrana: ( 6, 8 )    hodnota psi: 3
+potlacena hrana: ( 6, 9 )    hodnota psi: 3
+potlacena hrana: ( 7, 9 )    hodnota psi: 3
